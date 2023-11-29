@@ -31,25 +31,20 @@ This Python application demonstrates a simple social networking system based on 
 
 python main.py
 ```
-Follow the on-screen instructions to interact with the social networking demo.
+Follow the on-screen instructions to interact with the social networking application.
 
 ## Contributing
 
 Contributions are welcome! Please follow the contribution guidelines.
 
-### CONTRIBUTING.md:
+
 
 ```markdown
-# Contributing to Social Networking Demo
-
-Thank you for considering contributing to this project! Contributions are encouraged and welcomed.
-
 ## How to Contribute
 
 1. Fork the repository.
 2. Clone your forked repository to your local machine:
-
-   ```bash
+   
    git clone https://github.com/dipakmat/python_social_networking_app.git
    cd python_social_networking_app
-```
+   
