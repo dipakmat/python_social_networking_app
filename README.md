@@ -20,8 +20,8 @@ This Python application demonstrates a simple social networking system based on 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/dipakmat/python_social_networking_app.git
+   cd python_social_networking_app
 ## Usage
 
 ```
@@ -50,6 +50,6 @@ Thank you for considering contributing to this project! Contributions are encour
 2. Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/dipakmat/python_social_networking_app.git
+   cd python_social_networking_app
 ```
